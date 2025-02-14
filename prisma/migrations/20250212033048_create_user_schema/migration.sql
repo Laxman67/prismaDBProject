@@ -1,4 +1,5 @@
--- CreateTable
+
+git commit -m "first commit"-- CreateTable
 CREATE TABLE "User" (
     "id" SERIAL NOT NULL,
     "name" TEXT,
